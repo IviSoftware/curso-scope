@@ -1,0 +1,19 @@
+{
+  "name": "curso-scope",
+  "version": "1.0.0",
+  "description": "proyecto para el curso de scope en platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IviSoftware/curso-scope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IviSoftware/curso-scope/issues"
+  },
+  "homepage": "https://github.com/IviSoftware/curso-scope#readme"
+}
